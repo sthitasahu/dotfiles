@@ -45,5 +45,5 @@ return {
     end,
   },
 }
-  
+--this is the initial config for neovim integration with git   
 
