@@ -1,0 +1,80 @@
+" ============================================================================
+" Netrw Directory Listing                                        (netrw v171)
+"   /
+"   Sorted by      name
+"   Sort sequence: [\/]$,\<core\%(\.\d\+\)\=\>,\.h$,\.c$,\.cpp$,\~\=\*$,*,\.o$,\.obj$,\.info$,\.swp$,\.bak$,\~$
+"   Quick Help: <F1>:help  -:go up dir  D:delete  R:rename  s:sort-by  x:special
+" ==============================================================================
+../
+/
+| bin.usr-is-merged/
+| boot/
+| cdrom/
+| dev/
+| etc/
+| home/
+| | lost+found/
+| | sthita/
+| | | .avm/
+| | | .cache/
+| | | .cargo/
+| | | .config/
+| | | .gnupg/
+| | | .local/
+| | | .npm/
+| | | .nvm/
+| | | .polybar/
+| | | .rustup/
+| | | .ssh/
+| | | .yarn/
+| | | Desktop/
+| | | Documents/
+| | | Downloads/
+| | | Music/
+| | | Pictures/
+| | | Public/
+| | | Templates/
+| | | Videos/
+| | | day1/
+| | | dotfiles/
+| | | | .git/
+| | | | kitty/
+| | | | nvim/
+| | | | | .config/
+| | | | polybar/
+| | | polybar-themes/
+| | | snap/
+| | | .fehbg*
+| | | .bash_history
+| | | .bash_logout
+| | | .bashrc
+| | | .gitconfig
+| | | .lesshst
+| | | .profile
+| | | .sudo_as_admin_successful
+| | | .wget-hsts
+| | | .yarnrc
+| | | .zcompdump
+| | | .zshrc
+| | | desktop.jpg
+| lib.usr-is-merged/
+| lost+found/
+| media/
+| mnt/
+| opt/
+| proc/
+| root/
+| run/
+| sbin.usr-is-merged/
+| snap/
+| srv/
+| sys/
+| tmp/
+| usr/
+| var/
+| bin@	 --> usr/bin
+| lib32@	 --> usr/lib32
+| lib64@	 --> usr/lib64
+| lib@	 --> usr/lib
+| sbin@	 --> usr/sbin
+| swap.img
